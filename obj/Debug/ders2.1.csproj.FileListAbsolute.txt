@@ -1,0 +1,7 @@
+C:\Users\samet\source\repos\ders2.1\ders2.1\bin\Debug\ders2.1.exe.config
+C:\Users\samet\source\repos\ders2.1\ders2.1\bin\Debug\ders2.1.exe
+C:\Users\samet\source\repos\ders2.1\ders2.1\bin\Debug\ders2.1.pdb
+C:\Users\samet\source\repos\ders2.1\ders2.1\obj\Debug\ders2.1.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\ders2.1\ders2.1\obj\Debug\ders2.1.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\ders2.1\ders2.1\obj\Debug\ders2.1.exe
+C:\Users\samet\source\repos\ders2.1\ders2.1\obj\Debug\ders2.1.pdb
